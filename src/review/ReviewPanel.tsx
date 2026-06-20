@@ -112,7 +112,7 @@ export default function ReviewPanel() {
           <div className="flex items-start gap-3">
             <div className="w-12 h-12 border-2 border-amber-400 p-0.5 shrink-0">
               <div>
-                <img src="/src/assets/imgs/satisfaction.png" alt="" />
+                <img src="/images/satisfaction.png" alt="" />
               </div>
             </div>
           </div>
